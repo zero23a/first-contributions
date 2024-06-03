@@ -25,7 +25,8 @@ aiymzhann08
 - [Shubh Sarpal] | <a href="https://www.linkedin.com/in/shubhsarpal/">linkedin</a> | # Shubh Sarpal
 - [Sabina Dragotsy]
 - [Dago Bert]
-- [zizom]
+- [Yeleusiz Zere] https://github.com/zero23a/first-contributions.git 
+-  [zizom]
 - [Ankith Veldandi]
 - [Khursheed](https://github.com/khurshied)
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
