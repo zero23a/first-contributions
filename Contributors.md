@@ -1272,6 +1272,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Julian Potter] (https://github.com/julpotter)
 -[Ali Hinnawe](https://github.com/alihinnawe)
 -SirfrancisDrake
+- Yeleusiz Zere (https://github.com/zero23a/first-contributions.git)
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
 -[Harsh] i made some changes
 -[Sarwat Jabeen](https://github.com/sarwatj)
